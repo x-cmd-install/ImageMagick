@@ -7,13 +7,13 @@ about:
   head: 5f3ddea
   archived: false
   latestVersion: 7.1.2-31
-  collectedAt: 2026-09-04T19:18:55Z
+  collectedAt: 2026-09-04T21:16:01Z
 timeline:
   created: 2015-05-17
   lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 17331
+  star: 17332
   watcher: 221
   fork: 1652
   release: 281
@@ -91,6 +91,84 @@ total:
   openIssue: 152
   commit: 24607
 ---
+path: /home/runner/.x-repo/github.com/ImageMagick/ImageMagick
+collectedAt: 2026-09-04T21:16:19Z
+loc:
+  C:
+    code: 361792
+    comments: 106585
+    blanks: 26852
+    files: 286
+  Html:
+    code: 51650
+    comments: 407
+    blanks: 5487
+    files: 68
+  Autoconf:
+    code: 33640
+    comments: 6763
+    blanks: 4340
+    files: 49
+  CHeader:
+    code: 29781
+    comments: 8473
+    blanks: 6438
+    files: 365
+  Cpp:
+    code: 15881
+    comments: 1450
+    blanks: 2887
+    files: 55
+  Sh:
+    code: 10044
+    comments: 2407
+    blanks: 1344
+    files: 12
+  M4:
+    code: 9033
+    comments: 3461
+    blanks: 1019
+    files: 30
+  Xml:
+    code: 5303
+    comments: 1017
+    blanks: 26
+    files: 19
+  Perl:
+    code: 2922
+    comments: 753
+    blanks: 532
+    files: 18
+  Automake:
+    code: 2833
+    comments: 379
+    blanks: 411
+    files: 12
+  Svg:
+    code: 39
+    comments: 2
+    blanks: 1
+    files: 4
+  Bash:
+    code: 20
+    comments: 5
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 94
+    blanks: 26
+    files: 3
+  Text:
+    code: 0
+    comments: 794
+    blanks: 301
+    files: 7
+total:
+  code: 528734
+  comments: 132590
+  blanks: 50005
+  files: 929
 ---
 date: "2026-09-02T04:47:48Z"
 repo:
