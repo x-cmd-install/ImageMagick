@@ -1,0 +1,67 @@
+about:
+  description: ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
+  license: NOASSERTION
+  homepage: https://imagemagick.org
+  head: 56d965e
+  archived: false
+  latestVersion: 7.1.2-31
+  collectedAt: 2026-09-04T01:41:49Z
+timeline:
+  created: 2015-05-17
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 17325
+  watcher: 221
+  fork: 1652
+  release: 281
+  contributor: 209
+  pullRequest: 179
+  issue: 3571
+language:
+  C: 19100137
+  HTML: 3838259
+  Makefile: 1407901
+  C++: 813584
+  XS: 503057
+  Shell: 483201
+  M4: 258580
+  Roff: 256001
+  Perl: 217545
+  Tcl: 20737
+  DIGITAL Command Language: 5516
+  Dockerfile: 2650
+totalLine: 26907168
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 2
+    mergedPR: 13
+    openPR: 3
+    closedIssue: 2
+    openIssue: 6
+    commit: 57
+  last90d:
+    since: 2026-06-06
+    release: 6
+    mergedPR: 53
+    openPR: 4
+    closedIssue: 28
+    openIssue: 30
+    commit: 170
+  last180d:
+    since: 2026-03-08
+    release: 16
+    mergedPR: 100
+    openPR: 7
+    closedIssue: 65
+    openIssue: 60
+    commit: 348
+  last360d:
+    since: 2025-09-09
+    release: 25
+    mergedPR: 123
+    openPR: 7
+    closedIssue: 148
+    openIssue: 101
+    commit: 596
