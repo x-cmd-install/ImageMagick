@@ -5,7 +5,7 @@ about:
   head: 04fd261
   archived: false
   latestVersion: "7.1.2-31"
-  collectedAt: 2026-09-08T02:26:55Z
+  collectedAt: 2026-09-08T05:15:56Z
 timeline:
   created: 2015-05-17
   lastCommit: 2026-09-07
@@ -90,7 +90,7 @@ total:
   commit: 24658
 ---
 path: /home/runner/.x-repo/github.com/ImageMagick/ImageMagick
-collectedAt: 2026-09-08T02:27:37Z
+collectedAt: 2026-09-08T05:16:55Z
 loc:
   C:
     code: 362386
