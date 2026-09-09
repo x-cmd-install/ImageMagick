@@ -5,9 +5,9 @@ ImageMagick is a free, open-source software suite for creating, editing, convert
 - **Upstream**: <https://github.com/ImageMagick/ImageMagick>
 - **Homepage**: <https://imagemagick.org>
 - **Latest release**: `7.1.2-31` (2026-09-03)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-09
 - **License**: NOASSERTION
-- **Stars**: 17368 · **Forks**: 1653 · **Open issues**: 3572 · **Contributors**: 209
+- **Stars**: 17376 · **Forks**: 1650 · **Open issues**: 3573 · **Contributors**: 209
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/ImageMagick> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:32:38Z._
+_Last regenerated: 2026-09-09T05:24:19Z._
