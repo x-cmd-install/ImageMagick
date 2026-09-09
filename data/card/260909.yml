@@ -2,12 +2,12 @@ about:
   description: "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms."
   license: NOASSERTION
   homepage: https://imagemagick.org
-  head: ab0c467
+  head: 9249cab
   archived: false
   latestVersion: "7.1.2-31"
   latestRelease: "7.1.2-31"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:23:25Z
+  collectedAt: 2026-09-09T19:40:41Z
 timeline:
   created: 2015-05-17
   lastCommit: 2026-09-09
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
-  star: 17376
+  star: 17380
   watcher: 222
-  fork: 1650
+  fork: 1653
   release: 281
   contributor: 209
   pullRequest: 659
   issue: 3573
 language:
-  C: 19128574
+  C: 19128769
   HTML: 3838259
   Makefile: 1408543
   C++: 812927
@@ -35,7 +35,7 @@ language:
   Tcl: 20737
   DIGITAL Command Language: 5516
   Dockerfile: 2650
-totalBytes: 26968517
+totalBytes: 26968712
 recent:
   last30d:
     since: 2026-08-10
@@ -84,20 +84,20 @@ recent:
     openPR: 6
     closedIssue: 393
     openIssue: 129
-    commit: 2250
+    commit: 2252
 total:
   release: 281
   mergedPR: 481
   openPR: 9
   closedIssue: 3419
   openIssue: 154
-  commit: 24663
+  commit: 24665
 ---
 path: /home/runner/.x-repo/github.com/ImageMagick/ImageMagick
-collectedAt: 2026-09-09T05:24:15Z
+collectedAt: 2026-09-09T19:41:26Z
 loc:
   C:
-    code: 362786
+    code: 362792
     comments: 106484
     blanks: 26886
     files: 286
@@ -167,7 +167,7 @@ loc:
     blanks: 301
     files: 7
 total:
-  code: 529766
+  code: 529772
   comments: 132487
   blanks: 50039
   files: 929
