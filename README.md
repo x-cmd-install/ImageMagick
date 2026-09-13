@@ -14,15 +14,15 @@ x install ImageMagick
 
 ## Code insight
 
-Total: **523,985** lines of code across **823** files in the top 5 languages.
+Total: **524,021** lines of code across **823** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 362,799 | 106,484 | 26,887 | 286 |
+| C | 362,821 | 106,481 | 26,889 | 286 |
 | Html | 51,650 | 407 | 5,487 | 68 |
-| Autoconf | 33,650 | 6,763 | 4,342 | 49 |
-| CHeader | 29,803 | 8,467 | 6,443 | 365 |
-| Cpp | 15,854 | 1,450 | 2,876 | 55 |
+| Autoconf | 33,650 | 6,764 | 4,342 | 49 |
+| CHeader | 29,816 | 8,467 | 6,445 | 365 |
+| Cpp | 15,855 | 1,450 | 2,876 | 55 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `7.1.2-31` (2026-09-03)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 - **Assets in release**: 63
 
 ## Popularity
 
-- **Stars**: 17,393 · **Forks**: 1,656 · **Open issues**: 3,573 · **Contributors**: 209
+- **Stars**: 17,409 · **Forks**: 1,656 · **Open issues**: 3,573 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 484 · **Open PRs**: 8 · **Closed issues**: 3419 · **Open issues**: 154 · **Commits**: 24673
+- **Releases**: 281 · **Merged PRs**: 484 · **Open PRs**: 9 · **Closed issues**: 3419 · **Open issues**: 154 · **Commits**: 24687
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 21 | 0 | 1 | 8 | 69 |
-| last60d | 2026-07-13 | 4 | 40 | 1 | 8 | 23 | 128 |
-| 90d | 2026-06-13 | 6 | 60 | 2 | 28 | 31 | 182 |
-| last180d | 2026-03-15 | 15 | 110 | 5 | 62 | 61 | 356 |
-| 360d | 2025-09-16 | 25 | 135 | 5 | 146 | 101 | 601 |
-| last720d | 2024-09-21 | 37 | 166 | 5 | 389 | 129 | 2259 |
+| 30d | 2026-08-14 | 2 | 21 | 1 | 1 | 8 | 71 |
+| last60d | 2026-07-15 | 4 | 36 | 2 | 8 | 23 | 115 |
+| 90d | 2026-06-15 | 6 | 59 | 3 | 27 | 30 | 173 |
+| last180d | 2026-03-17 | 14 | 106 | 6 | 59 | 60 | 353 |
+| 360d | 2025-09-18 | 25 | 135 | 6 | 146 | 101 | 605 |
+| last720d | 2024-09-23 | 37 | 166 | 6 | 384 | 129 | 2269 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for ImageMagick lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:43:42Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:27:42Z._
