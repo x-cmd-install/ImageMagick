@@ -14,11 +14,11 @@ x install ImageMagick
 
 ## Code insight
 
-Total: **523,944** lines of code across **823** files in the top 5 languages.
+Total: **523,950** lines of code across **823** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 362,744 | 106,710 | 26,939 | 286 |
+| C | 362,750 | 106,710 | 26,939 | 286 |
 | Html | 51,650 | 407 | 5,487 | 68 |
 | Autoconf | 33,650 | 6,764 | 4,342 | 49 |
 | CHeader | 29,816 | 8,470 | 6,446 | 365 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,426 · **Forks**: 1,654 · **Open issues**: 3,576 · **Contributors**: 209
+- **Stars**: 17,439 · **Forks**: 1,654 · **Open issues**: 3,576 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 485 · **Open PRs**: 8 · **Closed issues**: 3420 · **Open issues**: 156 · **Commits**: 24699
+- **Releases**: 281 · **Merged PRs**: 485 · **Open PRs**: 9 · **Closed issues**: 3422 · **Open issues**: 154 · **Commits**: 24700
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 2 | 22 | 0 | 2 | 10 | 75 |
-| last60d | 2026-07-17 | 4 | 36 | 1 | 9 | 24 | 119 |
-| 90d | 2026-06-17 | 6 | 60 | 2 | 24 | 32 | 177 |
-| last180d | 2026-03-19 | 14 | 107 | 5 | 60 | 61 | 357 |
-| 360d | 2025-09-20 | 25 | 136 | 5 | 147 | 103 | 609 |
-| last720d | 2024-09-25 | 37 | 167 | 5 | 385 | 131 | 2281 |
+| 30d | 2026-08-17 | 2 | 22 | 1 | 2 | 9 | 75 |
+| last60d | 2026-07-18 | 4 | 36 | 2 | 9 | 15 | 119 |
+| 90d | 2026-06-18 | 6 | 59 | 3 | 24 | 32 | 177 |
+| last180d | 2026-03-20 | 14 | 106 | 6 | 61 | 59 | 357 |
+| 360d | 2025-09-21 | 25 | 136 | 6 | 148 | 101 | 609 |
+| last720d | 2024-09-26 | 37 | 167 | 6 | 387 | 129 | 2281 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for ImageMagick lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:41:48Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:43:39Z._
