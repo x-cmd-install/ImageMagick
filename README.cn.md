@@ -4,7 +4,7 @@
 
 ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 
-![ImageMagick](https://repo.x-cmd.io/ImageMagick.svg?lang=zh)
+[![x-cmd/install — ImageMagick Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ImageMagick.svg?lang=zh)](https://x-cmd.com/install/ImageMagick)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install ImageMagick
 
 ## 代码洞察
 
-合计: **523,972** 行代码（覆盖前 5 种语言、共 **823** 个文件）。
+合计: **524,027** 行代码（覆盖前 5 种语言、共 **823** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 362,743 | 106,709 | 26,940 | 286 |
+| C | 362,797 | 106,709 | 26,943 | 286 |
 | Html | 51,650 | 407 | 5,487 | 68 |
 | Autoconf | 33,650 | 6,764 | 4,342 | 49 |
-| CHeader | 29,845 | 8,470 | 6,449 | 365 |
+| CHeader | 29,846 | 8,471 | 6,449 | 365 |
 | Cpp | 15,855 | 1,450 | 2,876 | 55 |
 
 ## OpenSSF Scorecard 评分
@@ -43,27 +43,27 @@ x install ImageMagick
 ## 发布
 
 - **最新版本**: `7.1.2-31` (2026-09-03)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-20
 - **Release 含资产**: 63 个
 
 ## 流行度
 
-- **Star**: 17,460 · **Fork**: 1,657 · **开放 issue**: 3,577 · **贡献者**: 210
+- **Star**: 17,482 · **Fork**: 1,659 · **开放 issue**: 3,579 · **贡献者**: 210
 
 ## 累计统计
 
-- **发布数**: 281 · **已合并 PR**: 489 · **开放 PR**: 9 · **已关闭 issue**: 3422 · **开放 issue**: 155 · **提交数**: 24711
+- **发布数**: 281 · **已合并 PR**: 492 · **开放 PR**: 8 · **已关闭 issue**: 3422 · **开放 issue**: 157 · **提交数**: 24728
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 26 | 1 | 2 | 9 | 81 |
-| last60d | 2026-07-20 | 4 | 40 | 2 | 9 | 16 | 125 |
-| 90d | 2026-06-20 | 6 | 61 | 3 | 22 | 33 | 183 |
-| last180d | 2026-03-22 | 14 | 110 | 6 | 60 | 60 | 363 |
-| 360d | 2025-09-23 | 25 | 140 | 6 | 148 | 102 | 615 |
-| last720d | 2024-09-28 | 37 | 171 | 6 | 386 | 130 | 2292 |
+| 30d | 2026-08-21 | 2 | 28 | 0 | 1 | 10 | 59 |
+| last60d | 2026-07-22 | 4 | 42 | 1 | 9 | 18 | 110 |
+| 90d | 2026-06-22 | 5 | 62 | 2 | 17 | 34 | 172 |
+| last180d | 2026-03-24 | 13 | 111 | 5 | 59 | 62 | 357 |
+| 360d | 2025-09-25 | 25 | 143 | 5 | 148 | 103 | 616 |
+| last720d | 2024-09-30 | 37 | 174 | 5 | 386 | 132 | 2306 |
 
 ## Release 资产
 
@@ -142,4 +142,4 @@ ImageMagick 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:36:47Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:48:25Z._
