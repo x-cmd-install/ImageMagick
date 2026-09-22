@@ -26,12 +26,12 @@ Total: **524,041** lines of code across **823** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.8 / 10**
+Overall score: **8.9 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/27 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `7.1.2-31` (2026-09-03)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 63
 
 ## Popularity
 
-- **Stars**: 17,488 · **Forks**: 1,659 · **Open issues**: 3,579 · **Contributors**: 210
+- **Stars**: 17,489 · **Forks**: 1,659 · **Open issues**: 3,579 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 492 · **Open PRs**: 8 · **Closed issues**: 3424 · **Open issues**: 155 · **Commits**: 24731
+- **Releases**: 281 · **Merged PRs**: 492 · **Open PRs**: 8 · **Closed issues**: 3424 · **Open issues**: 155 · **Commits**: 24732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 26 | 0 | 3 | 8 | 60 |
-| last60d | 2026-07-23 | 4 | 40 | 1 | 11 | 16 | 111 |
-| 90d | 2026-06-23 | 5 | 62 | 2 | 18 | 32 | 173 |
-| last180d | 2026-03-25 | 13 | 109 | 5 | 61 | 60 | 358 |
-| 360d | 2025-09-26 | 25 | 143 | 5 | 150 | 99 | 617 |
-| last720d | 2024-10-01 | 37 | 174 | 5 | 388 | 130 | 2308 |
+| 30d | 2026-08-23 | 2 | 26 | 0 | 3 | 8 | 61 |
+| last60d | 2026-07-24 | 4 | 38 | 1 | 11 | 14 | 112 |
+| 90d | 2026-06-24 | 5 | 60 | 2 | 16 | 30 | 174 |
+| last180d | 2026-03-26 | 13 | 109 | 5 | 61 | 59 | 359 |
+| 360d | 2025-09-27 | 25 | 143 | 5 | 150 | 99 | 618 |
+| last720d | 2024-10-02 | 37 | 173 | 5 | 387 | 130 | 2308 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for ImageMagick lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:35:23Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:51:41Z._

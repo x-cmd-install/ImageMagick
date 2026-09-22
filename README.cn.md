@@ -26,12 +26,12 @@ x install ImageMagick
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.8 / 10**
+总评分: **8.9 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 2/29 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/27 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -43,27 +43,27 @@ x install ImageMagick
 ## 发布
 
 - **最新版本**: `7.1.2-31` (2026-09-03)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 63 个
 
 ## 流行度
 
-- **Star**: 17,488 · **Fork**: 1,659 · **开放 issue**: 3,579 · **贡献者**: 210
+- **Star**: 17,489 · **Fork**: 1,659 · **开放 issue**: 3,579 · **贡献者**: 210
 
 ## 累计统计
 
-- **发布数**: 281 · **已合并 PR**: 492 · **开放 PR**: 8 · **已关闭 issue**: 3424 · **开放 issue**: 155 · **提交数**: 24731
+- **发布数**: 281 · **已合并 PR**: 492 · **开放 PR**: 8 · **已关闭 issue**: 3424 · **开放 issue**: 155 · **提交数**: 24732
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 26 | 0 | 3 | 8 | 60 |
-| last60d | 2026-07-23 | 4 | 40 | 1 | 11 | 16 | 111 |
-| 90d | 2026-06-23 | 5 | 62 | 2 | 18 | 32 | 173 |
-| last180d | 2026-03-25 | 13 | 109 | 5 | 61 | 60 | 358 |
-| 360d | 2025-09-26 | 25 | 143 | 5 | 150 | 99 | 617 |
-| last720d | 2024-10-01 | 37 | 174 | 5 | 388 | 130 | 2308 |
+| 30d | 2026-08-23 | 2 | 26 | 0 | 3 | 8 | 61 |
+| last60d | 2026-07-24 | 4 | 38 | 1 | 11 | 14 | 112 |
+| 90d | 2026-06-24 | 5 | 60 | 2 | 16 | 30 | 174 |
+| last180d | 2026-03-26 | 13 | 109 | 5 | 61 | 59 | 359 |
+| 360d | 2025-09-27 | 25 | 143 | 5 | 150 | 99 | 618 |
+| last720d | 2024-10-02 | 37 | 173 | 5 | 387 | 130 | 2308 |
 
 ## Release 资产
 
@@ -142,4 +142,4 @@ ImageMagick 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:35:24Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:51:41Z._
