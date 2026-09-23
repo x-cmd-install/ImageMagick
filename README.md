@@ -4,7 +4,7 @@
 
 ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
 
-[![x-cmd/install — ImageMagick Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ImageMagick.svg)](https://x-cmd.com/install/ImageMagick)
+[![x-cmd/install — ImageMagick Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ImageMagick.svg)](https://x-cmd.com/install/ImageMagick)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install ImageMagick
 
 ## Code insight
 
-Total: **524,041** lines of code across **823** files in the top 5 languages.
+Total: **524,063** lines of code across **823** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 362,811 | 106,709 | 26,945 | 286 |
+| C | 362,825 | 106,709 | 26,943 | 286 |
 | Html | 51,650 | 407 | 5,487 | 68 |
 | Autoconf | 33,650 | 6,764 | 4,342 | 49 |
-| CHeader | 29,846 | 8,471 | 6,449 | 365 |
+| CHeader | 29,854 | 8,471 | 6,450 | 365 |
 | Cpp | 15,855 | 1,450 | 2,876 | 55 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `7.1.2-31` (2026-09-03)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 63
 
 ## Popularity
 
-- **Stars**: 17,489 · **Forks**: 1,659 · **Open issues**: 3,579 · **Contributors**: 210
+- **Stars**: 17,494 · **Forks**: 1,660 · **Open issues**: 3,579 · **Contributors**: 210
 
 ## Totals (cumulative)
 
-- **Releases**: 281 · **Merged PRs**: 492 · **Open PRs**: 8 · **Closed issues**: 3424 · **Open issues**: 155 · **Commits**: 24732
+- **Releases**: 281 · **Merged PRs**: 492 · **Open PRs**: 8 · **Closed issues**: 3425 · **Open issues**: 154 · **Commits**: 24743
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 26 | 0 | 3 | 8 | 61 |
-| last60d | 2026-07-24 | 4 | 38 | 1 | 11 | 14 | 112 |
-| 90d | 2026-06-24 | 5 | 60 | 2 | 16 | 30 | 174 |
-| last180d | 2026-03-26 | 13 | 109 | 5 | 61 | 59 | 359 |
-| 360d | 2025-09-27 | 25 | 143 | 5 | 150 | 99 | 618 |
-| last720d | 2024-10-02 | 37 | 173 | 5 | 387 | 130 | 2308 |
+| 30d | 2026-08-24 | 1 | 26 | 0 | 3 | 8 | 61 |
+| last60d | 2026-07-25 | 4 | 38 | 1 | 11 | 14 | 112 |
+| 90d | 2026-06-25 | 5 | 59 | 2 | 16 | 30 | 174 |
+| last180d | 2026-03-27 | 13 | 108 | 5 | 62 | 58 | 359 |
+| 360d | 2025-09-28 | 25 | 143 | 5 | 151 | 98 | 618 |
+| last720d | 2024-10-03 | 37 | 173 | 5 | 388 | 129 | 2316 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for ImageMagick lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:51:41Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:50:01Z._
