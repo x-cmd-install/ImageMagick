@@ -14,14 +14,14 @@ x install ImageMagick
 
 ## Code insight
 
-Total: **525,952** lines of code across **824** files in the top 5 languages.
+Total: **525,982** lines of code across **824** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 363,820 | 106,980 | 27,021 | 286 |
+| C | 363,838 | 106,983 | 27,021 | 286 |
 | Html | 52,571 | 416 | 5,569 | 69 |
 | Autoconf | 33,677 | 6,764 | 4,342 | 49 |
-| CHeader | 29,781 | 8,468 | 6,452 | 365 |
+| CHeader | 29,793 | 8,468 | 6,453 | 365 |
 | Cpp | 15,855 | 1,450 | 2,876 | 55 |
 
 ## OpenSSF Scorecard
@@ -42,96 +42,96 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `7.1.2-33` (2026-10-10)
+- **Latest**: `7.1.2-34` (2026-10-14)
 - **Last commit**: 2026-10-14
 - **Assets in release**: 63
 
 ## Popularity
 
-- **Stars**: 17,653 · **Forks**: 1,675 · **Open issues**: 3,600 · **Contributors**: 217
+- **Stars**: 17,660 · **Forks**: 1,676 · **Open issues**: 3,601 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 283 · **Merged PRs**: 509 · **Open PRs**: 9 · **Closed issues**: 3441 · **Open issues**: 159 · **Commits**: 24881
+- **Releases**: 284 · **Merged PRs**: 510 · **Open PRs**: 12 · **Closed issues**: 3442 · **Open issues**: 159 · **Commits**: 24891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 26 | 1 | 14 | 10 | 70 |
-| last60d | 2026-08-15 | 4 | 48 | 1 | 17 | 19 | 152 |
-| 90d | 2026-07-16 | 6 | 63 | 2 | 24 | 33 | 199 |
-| last180d | 2026-04-17 | 14 | 116 | 6 | 67 | 61 | 373 |
-| 360d | 2025-10-19 | 25 | 160 | 6 | 151 | 101 | 659 |
-| last720d | 2024-10-24 | 38 | 190 | 6 | 386 | 134 | 2432 |
+| 30d | 2026-09-15 | 3 | 27 | 4 | 15 | 10 | 77 |
+| last60d | 2026-08-16 | 5 | 49 | 4 | 18 | 19 | 159 |
+| 90d | 2026-07-17 | 7 | 63 | 5 | 25 | 33 | 206 |
+| last180d | 2026-04-18 | 15 | 117 | 9 | 68 | 61 | 380 |
+| 360d | 2025-10-20 | 26 | 161 | 9 | 151 | 101 | 666 |
+| last720d | 2024-10-25 | 39 | 191 | 9 | 387 | 134 | 2441 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ImageMagick-7.1.2-33-clang-x86_64.AppImage](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-clang-x86_64.AppImage) | 31.8 MiB | `other` |
-| [ImageMagick-7.1.2-33-gcc-x86_64.AppImage](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-gcc-x86_64.AppImage) | 31.8 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-arm64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-arm64.7z) | 12.2 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-arm64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-arm64.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-HDRI-arm64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-HDRI-arm64.7z) | 12.2 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-HDRI-arm64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-HDRI-arm64.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-HDRI-x64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-HDRI-x64.7z) | 11.5 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-HDRI-x64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-HDRI-x64.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-HDRI-x86.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-HDRI-x86.7z) | 9.9 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-HDRI-x86.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-HDRI-x86.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-x64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-x64.7z) | 11.5 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-x64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-x64.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-x86.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-x86.7z) | 9.9 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q16-x86.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q16-x86.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q8-arm64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q8-arm64.7z) | 12.1 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q8-arm64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q8-arm64.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q8-x64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q8-x64.7z) | 11.4 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q8-x64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q8-x64.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q8-x86.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q8-x86.7z) | 9.9 MiB | `other` |
-| [ImageMagick-7.1.2-33-portable-Q8-x86.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-portable-Q8-x86.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-arm64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-arm64-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-arm64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-arm64-dll.exe) | 23.2 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-arm64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-arm64-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-arm64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-arm64-static.exe) | 18.7 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-arm64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-arm64-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-arm64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-arm64-dll.exe) | 23.2 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-arm64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-arm64-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-arm64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-arm64-static.exe) | 18.7 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x64-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x64-dll.exe) | 23.4 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x64-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x64-static.exe) | 18.6 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x86-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x86-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x86-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x86-dll.exe) | 21.6 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x86-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x86-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-HDRI-x86-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-HDRI-x86-static.exe) | 17.0 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x64-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x64-dll.exe) | 23.4 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x64-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x64-static.exe) | 18.6 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x86-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x86-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x86-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x86-dll.exe) | 21.6 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x86-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x86-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q16-x86-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q16-x86-static.exe) | 16.9 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-arm64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-arm64-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-arm64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-arm64-dll.exe) | 23.2 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-arm64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-arm64-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-arm64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-arm64-static.exe) | 18.7 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x64-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x64-dll.exe) | 23.4 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x64-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x64-static.exe) | 18.6 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x86-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x86-dll.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x86-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x86-dll.exe) | 21.5 MiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x86-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x86-static.cdx.json) | 22.9 KiB | `other` |
-| [ImageMagick-7.1.2-33-Q8-x86-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Q8-x86-static.exe) | 16.9 MiB | `other` |
-| [ImageMagick-7.1.2-33-Windows.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33-Windows.7z) | 732.3 MiB | `native/win/x64` |
-| [ImageMagick-7.1.2-33.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33.7z) | 9.8 MiB | `other` |
-| [ImageMagick-7.1.2-33.intoto.jsonl](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33.intoto.jsonl) | 16.7 KiB | `other` |
-| [ImageMagick-7.1.2-33.tar.xz](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick-7.1.2-33.tar.xz) | 9.8 MiB | `other` |
-| [ImageMagick.Q16-HDRI.msixbundle](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick.Q16-HDRI.msixbundle) | 32.3 MiB | `other` |
-| [ImageMagick.Q16.msixbundle](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick.Q16.msixbundle) | 32.3 MiB | `other` |
-| [ImageMagick.Q8.msixbundle](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-33/ImageMagick.Q8.msixbundle) | 32.3 MiB | `other` |
+| [ImageMagick-7.1.2-34-clang-x86_64.AppImage](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-clang-x86_64.AppImage) | 31.8 MiB | `other` |
+| [ImageMagick-7.1.2-34-gcc-x86_64.AppImage](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-gcc-x86_64.AppImage) | 31.8 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-arm64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-arm64.7z) | 12.2 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-arm64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-arm64.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-HDRI-arm64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-HDRI-arm64.7z) | 12.0 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-HDRI-arm64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-HDRI-arm64.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-HDRI-x64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-HDRI-x64.7z) | 11.5 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-HDRI-x64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-HDRI-x64.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-HDRI-x86.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-HDRI-x86.7z) | 9.9 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-HDRI-x86.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-HDRI-x86.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-x64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-x64.7z) | 11.5 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-x64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-x64.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-x86.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-x86.7z) | 9.9 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q16-x86.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q16-x86.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q8-arm64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q8-arm64.7z) | 12.0 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q8-arm64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q8-arm64.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q8-x64.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q8-x64.7z) | 11.4 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q8-x64.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q8-x64.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q8-x86.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q8-x86.7z) | 9.9 MiB | `other` |
+| [ImageMagick-7.1.2-34-portable-Q8-x86.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-portable-Q8-x86.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-arm64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-arm64-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-arm64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-arm64-dll.exe) | 23.2 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-arm64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-arm64-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-arm64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-arm64-static.exe) | 18.7 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-arm64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-arm64-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-arm64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-arm64-dll.exe) | 23.2 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-arm64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-arm64-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-arm64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-arm64-static.exe) | 18.7 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x64-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x64-dll.exe) | 23.4 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x64-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x64-static.exe) | 18.6 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x86-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x86-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x86-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x86-dll.exe) | 21.6 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x86-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x86-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-HDRI-x86-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-HDRI-x86-static.exe) | 16.9 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x64-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x64-dll.exe) | 23.4 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x64-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x64-static.exe) | 18.6 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x86-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x86-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x86-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x86-dll.exe) | 21.5 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x86-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x86-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q16-x86-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q16-x86-static.exe) | 16.9 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-arm64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-arm64-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-arm64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-arm64-dll.exe) | 23.2 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-arm64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-arm64-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-arm64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-arm64-static.exe) | 18.7 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x64-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x64-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x64-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x64-dll.exe) | 23.4 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x64-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x64-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x64-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x64-static.exe) | 18.6 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x86-dll.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x86-dll.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x86-dll.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x86-dll.exe) | 21.5 MiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x86-static.cdx.json](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x86-static.cdx.json) | 22.9 KiB | `other` |
+| [ImageMagick-7.1.2-34-Q8-x86-static.exe](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Q8-x86-static.exe) | 16.9 MiB | `other` |
+| [ImageMagick-7.1.2-34-Windows.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34-Windows.7z) | 732.1 MiB | `native/win/x64` |
+| [ImageMagick-7.1.2-34.7z](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34.7z) | 9.8 MiB | `other` |
+| [ImageMagick-7.1.2-34.intoto.jsonl](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34.intoto.jsonl) | 16.6 KiB | `other` |
+| [ImageMagick-7.1.2-34.tar.xz](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick-7.1.2-34.tar.xz) | 9.8 MiB | `other` |
+| [ImageMagick.Q16-HDRI.msixbundle](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick.Q16-HDRI.msixbundle) | 32.3 MiB | `other` |
+| [ImageMagick.Q16.msixbundle](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick.Q16.msixbundle) | 32.3 MiB | `other` |
+| [ImageMagick.Q8.msixbundle](https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-34/ImageMagick.Q8.msixbundle) | 32.3 MiB | `other` |
 
 ## Improve this data
 
@@ -142,4 +142,4 @@ Install metadata for ImageMagick lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:35:32Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:16:42Z._
