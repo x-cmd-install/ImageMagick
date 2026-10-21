@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,689 · **Forks**: 1,679 · **Open issues**: 3,613 · **Contributors**: 218
+- **Stars**: 17,697 · **Forks**: 1,681 · **Open issues**: 3,614 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 284 · **Merged PRs**: 515 · **Open PRs**: 10 · **Closed issues**: 3452 · **Open issues**: 161 · **Commits**: 24925
+- **Releases**: 284 · **Merged PRs**: 515 · **Open PRs**: 10 · **Closed issues**: 3452 · **Open issues**: 162 · **Commits**: 24925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 3 | 25 | 2 | 22 | 11 | 75 |
-| last60d | 2026-08-21 | 5 | 53 | 2 | 26 | 18 | 145 |
-| 90d | 2026-07-22 | 7 | 67 | 3 | 34 | 26 | 196 |
-| last180d | 2026-04-23 | 13 | 120 | 6 | 74 | 60 | 376 |
-| 360d | 2025-10-25 | 26 | 166 | 7 | 155 | 103 | 671 |
-| last720d | 2024-10-30 | 39 | 195 | 7 | 394 | 136 | 2472 |
+| 30d | 2026-09-21 | 3 | 25 | 2 | 22 | 12 | 75 |
+| last60d | 2026-08-22 | 5 | 51 | 2 | 26 | 19 | 145 |
+| 90d | 2026-07-23 | 7 | 65 | 3 | 34 | 27 | 196 |
+| last180d | 2026-04-24 | 13 | 119 | 6 | 74 | 61 | 376 |
+| 360d | 2025-10-26 | 26 | 166 | 7 | 154 | 104 | 671 |
+| last720d | 2024-10-31 | 39 | 195 | 7 | 394 | 136 | 2471 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for ImageMagick lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:30:34Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:15:25Z._
