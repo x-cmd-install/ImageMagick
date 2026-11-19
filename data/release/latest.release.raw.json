@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12803660,
       "digest": "sha256:95865fa582d3e3dd014ec8b40f34f0d42fb5221ac412b0b44f2d2bdd6c3f2eee",
-      "download_count": 94,
+      "download_count": 362,
       "created_at": "2026-11-16T19:07:03Z",
       "updated_at": "2026-11-16T19:07:04Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-arm64.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:52b7df06a5f6829b1241374e8d6f64378b0550b048503d3b8c76fad2a465aec2",
-      "download_count": 16,
+      "download_count": 48,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-arm64.cdx.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12899155,
       "digest": "sha256:736182aefac4924b327c049885d93c8a971d43205a470e98610fd8a1ff96b3f2",
-      "download_count": 95,
+      "download_count": 435,
       "created_at": "2026-11-16T19:07:03Z",
       "updated_at": "2026-11-16T19:07:04Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-arm64.7z"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:cb27d958ecf0e36c161e469b269910eb628eefa15df0016bfed0f65a9c16a28e",
-      "download_count": 17,
+      "download_count": 50,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-arm64.cdx.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:1414b5711801014c0093f04a6e237a3ee6c9ce619e7e074c4ba93b0e7e1d55e9",
-      "download_count": 18,
+      "download_count": 52,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-arm64.cdx.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11705736,
       "digest": "sha256:456146795540708e3fe67af4847f3aeb23c614593572f8d65a50b9bb663ee2db",
-      "download_count": 108,
+      "download_count": 461,
       "created_at": "2026-11-16T19:07:20Z",
       "updated_at": "2026-11-16T19:07:21Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-arm64.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:2060e77277dc73d3e18768d4f763e10fd87e353a1b6bfe2a417b906bd882d6fa",
-      "download_count": 17,
+      "download_count": 47,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-musl-arm64.cdx.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 10139528,
       "digest": "sha256:b1202d6a6ae551fc5407bc49b2c522faf9c0a2d17cfe6c57d78a106b06b863bf",
-      "download_count": 104,
+      "download_count": 449,
       "created_at": "2026-11-16T19:07:21Z",
       "updated_at": "2026-11-16T19:07:21Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-musl-arm64.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:063382cc8ea7738be077e8d43e23d2be6f16fc1c776f0800874529fad0a0eba2",
-      "download_count": 28,
+      "download_count": 61,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-musl-x64.cdx.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13435620,
       "digest": "sha256:88bfa928f397ea29bdcdf9ce33b80fb124116b5e56c02dc272348409c6e2003f",
-      "download_count": 109,
+      "download_count": 476,
       "created_at": "2026-11-16T19:07:21Z",
       "updated_at": "2026-11-16T19:07:22Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-musl-x64.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:7a23678b4df5ea71bdb5599e7a7cbee287680fad2ec20d937a624fe93f4c8aca",
-      "download_count": 25,
+      "download_count": 44,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-x64.cdx.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12869884,
       "digest": "sha256:72c8dd0268f824f621e1628737b79d8e80bc63a5d46a69950dabb13c5de80c91",
-      "download_count": 201,
+      "download_count": 773,
       "created_at": "2026-11-16T19:07:21Z",
       "updated_at": "2026-11-16T19:07:22Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-linux-x64.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:219e798fe32bb84abc43880d3e33f7fa7d80b17e46124fab92ff62a457c5edcd",
-      "download_count": 15,
+      "download_count": 29,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-macos-arm64.cdx.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 9007560,
       "digest": "sha256:224157488f2863a834c979607fe6666d749075279c12a2d01c41917d4acd561e",
-      "download_count": 111,
+      "download_count": 487,
       "created_at": "2026-11-16T19:07:21Z",
       "updated_at": "2026-11-16T19:07:22Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-macos-arm64.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 12205968,
       "digest": "sha256:e7c705840e2d989eb9fdbd5c2ac87c5b7a9f95b97daee1a1e6e66aa152548ae5",
-      "download_count": 327,
+      "download_count": 1288,
       "created_at": "2026-11-16T19:07:03Z",
       "updated_at": "2026-11-16T19:07:04Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-x64.7z"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:50f40dbef1f0f3f48d0fc8ec8a34a2228af8757631be0e8bea0525c639740648",
-      "download_count": 29,
+      "download_count": 44,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-x64.cdx.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 10529361,
       "digest": "sha256:e7f789597ff138abc669f5dc7bb7edb22cead84303461f07fd4d7890b2dbc6f5",
-      "download_count": 113,
+      "download_count": 413,
       "created_at": "2026-11-16T19:07:03Z",
       "updated_at": "2026-11-16T19:07:04Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-x86.7z"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:d35d7cbaa038d1a3342ffd1b8ccf83101de2df744d88675b893963c8fb3a0126",
-      "download_count": 24,
+      "download_count": 38,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-HDRI-x86.cdx.json"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:3b0750b12ed568a0010cf7c295f86857b551fa1e4b6d3e5091fe6eb3abb77b58",
-      "download_count": 16,
+      "download_count": 30,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-arm64.cdx.json"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 11691104,
       "digest": "sha256:eda705d549aa549f13498d93d1a2efc5d9837d3b691561288a6499913bab4892",
-      "download_count": 107,
+      "download_count": 413,
       "created_at": "2026-11-16T19:07:22Z",
       "updated_at": "2026-11-16T19:07:22Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-arm64.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:02f4f7b2724317798fdfe8c76bb79fe27a5cc63db1ea20bf2a5eb1a218746703",
-      "download_count": 16,
+      "download_count": 29,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:18Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-musl-arm64.cdx.json"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 10135452,
       "digest": "sha256:4d27bf3e6d31200a09bc2b5978b3191143c4be1bb16b8d9aaf2d02ecbf6860ca",
-      "download_count": 89,
+      "download_count": 377,
       "created_at": "2026-11-16T19:07:22Z",
       "updated_at": "2026-11-16T19:07:23Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-musl-arm64.tar.xz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:683dcc158ea1a0f103954a5cd0e129d54215eabb8b986b3d347e28626a721852",
-      "download_count": 22,
+      "download_count": 36,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-musl-x64.cdx.json"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 13386380,
       "digest": "sha256:df3c8ad7cf87684b36cc8ed4b43d9295174b2f5d96e75c682beacae8ee33a1e6",
-      "download_count": 111,
+      "download_count": 433,
       "created_at": "2026-11-16T19:07:22Z",
       "updated_at": "2026-11-16T19:07:23Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-musl-x64.tar.xz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:ccd6b9a6754c63be172c13ac468626ed528be8570521702d82bb924e0bbda30b",
-      "download_count": 28,
+      "download_count": 43,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-x64.cdx.json"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 12821212,
       "digest": "sha256:db5584b837723420df5c44eeb10a561fe731c3367f29f277d1bc3defc40b7e0e",
-      "download_count": 152,
+      "download_count": 675,
       "created_at": "2026-11-16T19:07:22Z",
       "updated_at": "2026-11-16T19:07:23Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-linux-x64.tar.xz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:13a49c7e91fdc782cbcc5f32b60010940a0aba7a2a00f5662a698a17e2198d14",
-      "download_count": 15,
+      "download_count": 28,
       "created_at": "2026-11-16T19:07:18Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-macos-arm64.cdx.json"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 9006832,
       "digest": "sha256:f3d4c1184863b0f68da9cac6ef35628ab30c529203025c3eefee8d6067a77ce6",
-      "download_count": 110,
+      "download_count": 427,
       "created_at": "2026-11-16T19:07:23Z",
       "updated_at": "2026-11-16T19:07:24Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-macos-arm64.tar.xz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 12189111,
       "digest": "sha256:1d8f948f7ed789a74f69bf3dedc60c3935bbef69f283406cee01d35868c6d971",
-      "download_count": 355,
+      "download_count": 1221,
       "created_at": "2026-11-16T19:07:04Z",
       "updated_at": "2026-11-16T19:07:05Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-x64.7z"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:8daaf2615cb05a3649156e3fcf69209fc32faeb2b3f503236776f40fc3e60a93",
-      "download_count": 26,
+      "download_count": 47,
       "created_at": "2026-11-16T19:07:19Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-x64.cdx.json"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 10531382,
       "digest": "sha256:be5e8b8a3f4b1656abb353ad9fdcaafc4e9c44a57ea1596506243fe0f30f0613",
-      "download_count": 137,
+      "download_count": 466,
       "created_at": "2026-11-16T19:07:04Z",
       "updated_at": "2026-11-16T19:07:05Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-x86.7z"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:c63bc0fb98a96af663901249423aa416108b8ded52e8eb4476550b629973e384",
-      "download_count": 23,
+      "download_count": 37,
       "created_at": "2026-11-16T19:07:19Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q16-x86.cdx.json"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 12908092,
       "digest": "sha256:e56990fd5f57a93345e7ca1b16319d4a4ba256f4a94f511aed97b36f6bbeedcb",
-      "download_count": 88,
+      "download_count": 406,
       "created_at": "2026-11-16T19:07:05Z",
       "updated_at": "2026-11-16T19:07:05Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-arm64.7z"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:9b3a810d220206a3bf747c265736de304cf6a1fafb7283a2fc0102f3895aff46",
-      "download_count": 13,
+      "download_count": 26,
       "created_at": "2026-11-16T19:07:19Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-arm64.cdx.json"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:94f9f27fa42dad965589853250de2cfa28ea33c5361bfa8ea7b244a8133b408c",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:19Z",
       "updated_at": "2026-11-16T19:07:19Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-arm64.cdx.json"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 11609360,
       "digest": "sha256:04c1cbea077cd318234e7cd8de2e80b229b2358bf386c2bbc90b43cea07899d0",
-      "download_count": 101,
+      "download_count": 431,
       "created_at": "2026-11-16T19:07:23Z",
       "updated_at": "2026-11-16T19:07:24Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-arm64.tar.xz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:27557ee1e44d536cf4bdb28ba0e2cac34b5cf5b83e352a3276469935a1b67a6b",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:19Z",
       "updated_at": "2026-11-16T19:07:20Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-musl-arm64.cdx.json"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 10130548,
       "digest": "sha256:a61e48fdeebd41a21862b6072227532ca72371025bb46a0023df36aede381e7f",
-      "download_count": 95,
+      "download_count": 409,
       "created_at": "2026-11-16T19:07:23Z",
       "updated_at": "2026-11-16T19:07:24Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-musl-arm64.tar.xz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:38f92cc38a88b91e84abe47f9470b3a888b0ccfb6da1596dc3f50f16d31173e6",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:20Z",
       "updated_at": "2026-11-16T19:07:20Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-musl-x64.cdx.json"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 13370760,
       "digest": "sha256:45a81fb5142ec40b536ddcf0dd6fffac62cbb6b2d49e603440f86adffb75fbae",
-      "download_count": 108,
+      "download_count": 410,
       "created_at": "2026-11-16T19:07:23Z",
       "updated_at": "2026-11-16T19:07:25Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-musl-x64.tar.xz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:39a378e814c1282bcc82082d91ae491826325ef9405970aa38eeb07fac9695b0",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:20Z",
       "updated_at": "2026-11-16T19:07:20Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-x64.cdx.json"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 12835440,
       "digest": "sha256:839e8fc986003746764310d0cff16bf608ce66e288f195631436a98a0c2c7372",
-      "download_count": 116,
+      "download_count": 425,
       "created_at": "2026-11-16T19:07:24Z",
       "updated_at": "2026-11-16T19:07:25Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-linux-x64.tar.xz"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:54ba5c4cb3efe600b5075850f5e794afa9eb2b6c40c6257235f8dbc08d7da7a6",
-      "download_count": 13,
+      "download_count": 26,
       "created_at": "2026-11-16T19:07:20Z",
       "updated_at": "2026-11-16T19:07:20Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-macos-arm64.cdx.json"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 8993052,
       "digest": "sha256:b4b794ba8a9f348a9b9691d170d86b506e3c047a71e6fbcb37145cd1bb1155c3",
-      "download_count": 125,
+      "download_count": 427,
       "created_at": "2026-11-16T19:07:24Z",
       "updated_at": "2026-11-16T19:07:25Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-macos-arm64.tar.xz"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 12183432,
       "digest": "sha256:90e3a8ee011710cf4e570c040eaf430daf6e69b1fab084fc3214cb695f961bdc",
-      "download_count": 139,
+      "download_count": 614,
       "created_at": "2026-11-16T19:07:05Z",
       "updated_at": "2026-11-16T19:07:05Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-x64.7z"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:dac31a08f23ef3c017e6d1b07746b0f532fcd863b5706b18ffc24f1651e5e0cd",
-      "download_count": 22,
+      "download_count": 35,
       "created_at": "2026-11-16T19:07:20Z",
       "updated_at": "2026-11-16T19:07:21Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-x64.cdx.json"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 10521974,
       "digest": "sha256:ea1f1867555159830277ba3e0a17924c2bf41234df8c78fa3d8fe98067df8a03",
-      "download_count": 110,
+      "download_count": 398,
       "created_at": "2026-11-16T19:07:06Z",
       "updated_at": "2026-11-16T19:07:06Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-x86.7z"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:263fa916459f2264e8407bbac4e0260d085df2e40a525da1da1612ce7bca7540",
-      "download_count": 22,
+      "download_count": 35,
       "created_at": "2026-11-16T19:07:20Z",
       "updated_at": "2026-11-16T19:07:20Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-portable-Q8-x86.cdx.json"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:2c8e51a8fe4175c26847b849b226a5329de96bf9e0c11a314db6c6f92c41086d",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:15Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-arm64-dll.cdx.json"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 24416336,
       "digest": "sha256:8724682573777d9fed9103662aeca53a0be2551694d8e609aa2017e0be451370",
-      "download_count": 132,
+      "download_count": 453,
       "created_at": "2026-11-16T19:07:09Z",
       "updated_at": "2026-11-16T19:07:10Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-arm64-dll.exe"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:d4e41e1a90936bd5824618c3feadce07431c05d2dff201233c8b4e0307b01e24",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:15Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-arm64-static.cdx.json"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 19658232,
       "digest": "sha256:bc8189b8a574f0276ec6c48a97afd11f2ad7986f1be33d2ac24b6ebece0a16f1",
-      "download_count": 109,
+      "download_count": 406,
       "created_at": "2026-11-16T19:07:09Z",
       "updated_at": "2026-11-16T19:07:10Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-arm64-static.exe"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:7951cf6d701bce08bd38b7ae50d9d344154555817e5441e0c866a8fbf9eaf534",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:14Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-arm64-dll.cdx.json"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 24420600,
       "digest": "sha256:2f5cb2f92725456d175870dfa5ccd50bebe8561827e30cde751c5dcd2861176d",
-      "download_count": 129,
+      "download_count": 510,
       "created_at": "2026-11-16T19:07:06Z",
       "updated_at": "2026-11-16T19:07:07Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-arm64-dll.exe"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:b8ee5e81dc9e6efdcf1d28a310f7b666bd0660273500d6beb64178146780acec",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:14Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-arm64-static.cdx.json"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 19665368,
       "digest": "sha256:409f327f361e4dac484d494d583052892197f9fe62cbfe65acb34214829fc1ca",
-      "download_count": 114,
+      "download_count": 394,
       "created_at": "2026-11-16T19:07:07Z",
       "updated_at": "2026-11-16T19:07:08Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-arm64-static.exe"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:85a5c140e354927ec6ce14e48c36b6084f23f5c64b2b61027eebb6d584fdeec9",
-      "download_count": 23,
+      "download_count": 36,
       "created_at": "2026-11-16T19:07:15Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x64-dll.cdx.json"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 24633384,
       "digest": "sha256:cf116682e4af5634781f8418bbe304e4399a3303d8bd0322e56bbb2025501cea",
-      "download_count": 2652,
+      "download_count": 26942,
       "created_at": "2026-11-16T19:07:07Z",
       "updated_at": "2026-11-16T19:07:08Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x64-dll.exe"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:0d835cec207e20159d5ebbecb5857d56d6d1697b6508833d41ce7bc72936718a",
-      "download_count": 23,
+      "download_count": 35,
       "created_at": "2026-11-16T19:07:15Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x64-static.cdx.json"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 19605552,
       "digest": "sha256:f0e383406dff2d5aa0d6a3714e4d29496c4be146dafc331d65c82393675dfbe5",
-      "download_count": 172,
+      "download_count": 546,
       "created_at": "2026-11-16T19:07:07Z",
       "updated_at": "2026-11-16T19:07:08Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x64-static.exe"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:4676a7de0af7feeba485c08057281e4efadc9ddcd0eb97b37e77148c9108ebde",
-      "download_count": 21,
+      "download_count": 33,
       "created_at": "2026-11-16T19:07:15Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x86-dll.cdx.json"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 22713024,
       "digest": "sha256:621fbc57a213530155bc031c1ff919b58b554abaaf9e2e19a019a3b06004243e",
-      "download_count": 344,
+      "download_count": 941,
       "created_at": "2026-11-16T19:07:08Z",
       "updated_at": "2026-11-16T19:07:09Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x86-dll.exe"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:fea0d4dc42f542d7327c659b9529ed2a1f3d50427e9900fa6757b22214ed861e",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:15Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x86-static.cdx.json"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 17864088,
       "digest": "sha256:f53707218b9dcdb5eafa84e7f7bf374fd218d3774fb7ef0e38c03b6f6c5f4c8c",
-      "download_count": 137,
+      "download_count": 447,
       "created_at": "2026-11-16T19:07:08Z",
       "updated_at": "2026-11-16T19:07:09Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-HDRI-x86-static.exe"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:c0e9758ba91373a8f157740e2e31adec91e9581dcebae3f101af399aa366b56d",
-      "download_count": 22,
+      "download_count": 35,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x64-dll.cdx.json"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 24635048,
       "digest": "sha256:78548917f173f80521bf8587e63e61da12793c33068e91fd3e1b00a96a59d901",
-      "download_count": 204,
+      "download_count": 954,
       "created_at": "2026-11-16T19:07:09Z",
       "updated_at": "2026-11-16T19:07:11Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x64-dll.exe"
@@ -2443,7 +2443,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:a49221978fd110a3eeb4d87c6ed3ed5fd3e861d201e8b159923902b7866e658a",
-      "download_count": 24,
+      "download_count": 36,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x64-static.cdx.json"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 19596984,
       "digest": "sha256:130d370af3b1735d7528c7a3f0c78efc5bebca30b3ba4f1c53ee9ff99c18a97c",
-      "download_count": 237,
+      "download_count": 718,
       "created_at": "2026-11-16T19:07:10Z",
       "updated_at": "2026-11-16T19:07:11Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x64-static.exe"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:6e6175515fea713e66a0fcc69c1cbe3da8325e3d6c98e32d38ec84b1f64d4f5b",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x86-dll.cdx.json"
@@ -2551,7 +2551,7 @@
       "state": "uploaded",
       "size": 22679368,
       "digest": "sha256:7482f95b91772d93f3c848488e4b8e36e20fa6ab9a493370de3cc098bca23434",
-      "download_count": 551,
+      "download_count": 2232,
       "created_at": "2026-11-16T19:07:10Z",
       "updated_at": "2026-11-16T19:07:11Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x86-dll.exe"
@@ -2587,7 +2587,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:697b5eeef8e433f4c1f960f0e1daa423856712e81e875470f3299857d3580378",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x86-static.cdx.json"
@@ -2623,7 +2623,7 @@
       "state": "uploaded",
       "size": 17869584,
       "digest": "sha256:5d365d62643d9b9a0ea2a98cb7a6f7e0fa283313328977956ebc6424bc3260f2",
-      "download_count": 148,
+      "download_count": 508,
       "created_at": "2026-11-16T19:07:10Z",
       "updated_at": "2026-11-16T19:07:11Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q16-x86-static.exe"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:aa184f1450fb49df34798d80a58c3c1b18afd1d1079687c471f4396e2fea2293",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:16Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-arm64-dll.cdx.json"
@@ -2695,7 +2695,7 @@
       "state": "uploaded",
       "size": 24414776,
       "digest": "sha256:895aa14a230a38bfcb3758cada2121b1dc33ebaa9405f6fe4a4b3f90336649da",
-      "download_count": 120,
+      "download_count": 432,
       "created_at": "2026-11-16T19:07:11Z",
       "updated_at": "2026-11-16T19:07:12Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-arm64-dll.exe"
@@ -2731,7 +2731,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:f0912a60c02320b213ac1a1cf4361278000a89234ef7bc37a36fbe5f095e463b",
-      "download_count": 13,
+      "download_count": 25,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-arm64-static.cdx.json"
@@ -2767,7 +2767,7 @@
       "state": "uploaded",
       "size": 19654144,
       "digest": "sha256:cdfdc6e6ef8ae1a8c98b8d7cefe25cddbeb228c9fda3cd88ee0a64c2fa6ee402",
-      "download_count": 113,
+      "download_count": 398,
       "created_at": "2026-11-16T19:07:11Z",
       "updated_at": "2026-11-16T19:07:12Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-arm64-static.exe"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:1e9110efc918b9b98bebe9791420c5955ab8de55001869fedf2fd855cc26e7f3",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:16Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x64-dll.cdx.json"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 24614152,
       "digest": "sha256:d70678311ba12ecea6f959159b2527cd5e1500745143dd1b4c11fab3f63866f3",
-      "download_count": 145,
+      "download_count": 479,
       "created_at": "2026-11-16T19:07:11Z",
       "updated_at": "2026-11-16T19:07:12Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x64-dll.exe"
@@ -2875,7 +2875,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:1cf995a4b918acc68157bfac10e978e4d08b9e29d558296f033d8d5a36e08029",
-      "download_count": 22,
+      "download_count": 34,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x64-static.cdx.json"
@@ -2911,7 +2911,7 @@
       "state": "uploaded",
       "size": 19587528,
       "digest": "sha256:f3d8b931b9301e9eb4da5b7b1bf3e3b1764d7de6da58aa03207222098bb8c7b1",
-      "download_count": 147,
+      "download_count": 469,
       "created_at": "2026-11-16T19:07:12Z",
       "updated_at": "2026-11-16T19:07:12Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x64-static.exe"
@@ -2947,7 +2947,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:0ff98a0f6248bed67ed32f65d6e05587a742271e9879c21aeafd5f1352919393",
-      "download_count": 21,
+      "download_count": 33,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x86-dll.cdx.json"
@@ -2983,7 +2983,7 @@
       "state": "uploaded",
       "size": 22672424,
       "digest": "sha256:aa3b96d58c692cd085bf94bdddb89a264dd1151c62004b833fe991a68c53f3ba",
-      "download_count": 131,
+      "download_count": 545,
       "created_at": "2026-11-16T19:07:12Z",
       "updated_at": "2026-11-16T19:07:14Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x86-dll.exe"
@@ -3019,7 +3019,7 @@
       "state": "uploaded",
       "size": 30681,
       "digest": "sha256:855893cb844de193172c32f3fa35e63ad2d3f6035feb809b4ba5e933acba548e",
-      "download_count": 21,
+      "download_count": 33,
       "created_at": "2026-11-16T19:07:17Z",
       "updated_at": "2026-11-16T19:07:17Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x86-static.cdx.json"
@@ -3055,7 +3055,7 @@
       "state": "uploaded",
       "size": 17867776,
       "digest": "sha256:01cd257e441aaac01d6581653d20e1be9de016b992dd252f973e78a187f00abd",
-      "download_count": 129,
+      "download_count": 511,
       "created_at": "2026-11-16T19:07:13Z",
       "updated_at": "2026-11-16T19:07:14Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Q8-x86-static.exe"
@@ -3091,7 +3091,7 @@
       "state": "uploaded",
       "size": 770287151,
       "digest": "sha256:ba72f5c5b967d46b68bb9c6c4caee5e354a61258620f713b8bbf94997414f894",
-      "download_count": 29,
+      "download_count": 68,
       "created_at": "2026-11-16T19:07:03Z",
       "updated_at": "2026-11-16T19:07:23Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-Windows.7z"
@@ -3127,7 +3127,7 @@
       "state": "uploaded",
       "size": 33343992,
       "digest": "sha256:68cca0053a8f82206e72400014f32f4b654e9807f45928a2325a1d14d695fb3a",
-      "download_count": 293,
+      "download_count": 1311,
       "created_at": "2026-11-16T19:07:06Z",
       "updated_at": "2026-11-16T19:07:09Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36-x86_64.AppImage"
@@ -3163,7 +3163,7 @@
       "state": "uploaded",
       "size": 10307402,
       "digest": "sha256:a954685c1272e629cae8c546338309430851fee0878a7c3d7b9eaa5f6efb495c",
-      "download_count": 650,
+      "download_count": 2074,
       "created_at": "2026-11-16T19:07:06Z",
       "updated_at": "2026-11-16T19:07:06Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36.7z"
@@ -3199,7 +3199,7 @@
       "state": "uploaded",
       "size": 19538,
       "digest": "sha256:6aa9434d3e089021fe79933eb09a5c4e1769e4d030b9e82d5b7e4a3d0ec48fcc",
-      "download_count": 117,
+      "download_count": 440,
       "created_at": "2026-11-16T19:07:13Z",
       "updated_at": "2026-11-16T19:07:13Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36.intoto.jsonl"
@@ -3235,7 +3235,7 @@
       "state": "uploaded",
       "size": 10315692,
       "digest": "sha256:410cab5ed416329290e77cbd7833a76502671ea25a42d1cfe010f9067b27c2d6",
-      "download_count": 143,
+      "download_count": 374,
       "created_at": "2026-11-16T19:07:24Z",
       "updated_at": "2026-11-16T19:07:25Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick-7.1.2-36.tar.xz"
@@ -3271,7 +3271,7 @@
       "state": "uploaded",
       "size": 21333743,
       "digest": "sha256:bb60a73d7fdbef687640942d5e801c865a42b1543f7ba7eedb29be7cbd1544a3",
-      "download_count": 670,
+      "download_count": 2477,
       "created_at": "2026-11-16T19:07:13Z",
       "updated_at": "2026-11-16T19:07:14Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick.Q16-HDRI.msixbundle"
@@ -3307,7 +3307,7 @@
       "state": "uploaded",
       "size": 21324074,
       "digest": "sha256:c7f2dd65a36aeb12ea12af25dfc3048e9867ef8152915f6a07e7a069f62cd6ee",
-      "download_count": 285,
+      "download_count": 1106,
       "created_at": "2026-11-16T19:07:13Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick.Q16.msixbundle"
@@ -3343,7 +3343,7 @@
       "state": "uploaded",
       "size": 21306548,
       "digest": "sha256:24cb886dd23f9574fbd0d74a80983a1baa0e41f1508d07b2515899e0aedfe3df",
-      "download_count": 143,
+      "download_count": 425,
       "created_at": "2026-11-16T19:07:14Z",
       "updated_at": "2026-11-16T19:07:15Z",
       "browser_download_url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-36/ImageMagick.Q8.msixbundle"
@@ -3354,14 +3354,14 @@
   "body": "7.1.2-36",
   "reactions": {
     "url": "https://api.github.com/repos/ImageMagick/ImageMagick/releases/447469950/reactions",
-    "total_count": 6,
-    "+1": 3,
+    "total_count": 15,
+    "+1": 5,
     "-1": 0,
-    "laugh": 0,
-    "hooray": 1,
+    "laugh": 1,
+    "hooray": 4,
     "confused": 0,
-    "heart": 2,
-    "rocket": 0,
-    "eyes": 0
+    "heart": 3,
+    "rocket": 1,
+    "eyes": 1
   }
 }
